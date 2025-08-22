@@ -301,7 +301,7 @@
   </main>
 
   <footer>
-    © 2025 Fan Page Dexter • Hecho para práctica de HTML + CSS
+    © 2025 Fan Page Dexter •
   </footer>
 </body>
 </html>
